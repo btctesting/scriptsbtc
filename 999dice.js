@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         999dice auto free
-// @version      1
+// @version      1.01
 // @description  Free 999dice
 // @match        https://www.999dice.com/*
 // @updateURL    https://raw.githubusercontent.com/btctesting/scriptsbtc/master/999dice.js
@@ -35,7 +35,13 @@
             $('#SimpleCaptchaContainer > .TextButton').click();
         },(12 + Math.floor(Math.random() * 3))*1000);
     };
+    
+    setTimeout(function(){
+            $('#FaucetLetsPlayButton').click();
+        },(15 + Math.floor(Math.random() * 3))*1000);
+    };
 
+    
 
  setTimeout(roll.tirada,2000);
  setInterval(roll.tirada,122000);
