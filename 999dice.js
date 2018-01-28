@@ -3,6 +3,7 @@
 // @version      1
 // @description  Free 999dice
 // @match        https://www.999dice.com/*
+// @updateURL    https://raw.githubusercontent.com/btctesting/scriptsbtc/master/999dice.js
 // ==/UserScript==
 
 (function() {
