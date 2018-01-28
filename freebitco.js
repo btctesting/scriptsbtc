@@ -1,3 +1,10 @@
+// ==UserScript==
+// @name         Freebitco Auto Faucet
+// @version      1
+// @match        https://freebitco.in/*
+// @updateURL    https://github.com/btctesting/scriptsbtc/blob/master/freebitco.js
+// ==/UserScript==
+
 (function() {
     'use strict';
 //obtiene el codigo fuente de <body></body>
