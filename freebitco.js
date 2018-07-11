@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         FREEBITCOIN.IO
-// @version      2
+// @version      2.1
 // @match        https://freebitcoin.io/*
-// @downloadURL  https://bitbucket.org/ivanstavenuiter/testbit/raw/403f4a7a8f353a208cf8ff5303e372f632d58988/FREEBITCOIN.IO.js
-// @updateURL    https://bitbucket.org/ivanstavenuiter/testbit/raw/403f4a7a8f353a208cf8ff5303e372f632d58988/FREEBITCOIN.IO.js
+// @downloadURL  https://raw.githubusercontent.com/btctesting/scriptsbtc/master/freebitco.js
+// @updateURL    https://raw.githubusercontent.com/btctesting/scriptsbtc/master/freebitco.js
 // ==/UserScript==
 
 (function() {
